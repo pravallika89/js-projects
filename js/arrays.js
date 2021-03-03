@@ -46,3 +46,4 @@ for (let i=0; i<favoriteMovies.length;i++){
 
 let mixedArray= ['string','false', 11];
 console.log(mixedArray);
+
